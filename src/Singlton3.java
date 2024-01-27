@@ -1,0 +1,2 @@
+public class Singlton3 {
+}
